@@ -1,0 +1,12 @@
+Bug ID: 	
+Severity:
+Priority:
+Title:
+Precondition:	
+Steps to reproduce:	
+Actual result:
+Expected result:	
+Tester:
+Environment:
+Date:
+Attachments

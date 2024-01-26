@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<Info>
+	<name>
+		<first>Zarina</first>
+		<last>Niyazova</last>
+	</name>
+	<age>33</age>
+	<pets>no</pets>
+	<desiredSalary>1 000 000</desiredSalary>
+</Info>

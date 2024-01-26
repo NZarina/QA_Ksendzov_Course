@@ -1,0 +1,9 @@
+Header: Product name, build, environment, author, date
+
+column 1: Item No.
+column 2: Check Point/Defect Statement
+column 3: Result
+	subcolumn: Pass (check mark if passed)
+	subcolumn: Fail (check mark if failed)
+column 4: Comments
+
